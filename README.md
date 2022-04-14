@@ -15,4 +15,5 @@
 
 - Recommneded menu
 
-![menu](https://user-images.githubusercontent.com/100191968/163377061-0391a608-abb6-4b3a-a02e-cb9cc4145a05.png)
+![menu](https://user-images.githubusercontent.com/100191968/163379222-9e60aae0-cc15-4133-8ccf-f46a8962f88d.png)
+
