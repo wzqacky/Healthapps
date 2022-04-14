@@ -1,14 +1,12 @@
 # Personal information 
-- gender: 
-  - [ ] male 
-  - [ ] female 
-- weight:
-- height: 
+- gender: male 
+- weight: 60 kg 
+- height: 175 cm
 - goal:
   - [ ] lose weight 
   - [ ] gain muscles 
-  - [ ] keep fit 
-- food allergy:
+  - [x] keep fit 
+- food allergy: None
 - period:
-  - [ ] lunch
-  - [ ] dinner 
+  - [x] lunch
+  - [x] dinner 
