@@ -18,5 +18,4 @@
 ![menu](https://user-images.githubusercontent.com/100191968/163379222-9e60aae0-cc15-4133-8ccf-f46a8962f88d.png)
 
 #### Price: $250
-
 ![Purchase now](https://user-images.githubusercontent.com/100191968/163382267-fbc04b7f-37c5-46ec-8305-a08482052d52.png)
